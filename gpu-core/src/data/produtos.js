@@ -1,0 +1,32 @@
+export const produtos = [
+  {
+    id: 1,
+    nome: "GeForce RTX 4070 Super",
+    fabricante: "NVIDIA",
+    preco: 4599,
+    vram: 12,
+    tipoMemoria: "GDDR6X",
+    nota: 9.2,
+    imagem: "/imgs/4070Super.jpg",
+  },
+  {
+    id: 2,
+    nome: "Radeon RX 7900 XT",
+    fabricante: "AMD",
+    preco: 5999,
+    vram: 20,
+    tipoMemoria: "GDDR6",
+    nota: 9.0,
+    imagem: "/imgs/7900XT.jpg",
+  },
+  {
+    id: 3,
+    nome: "GeForce RTX 4060 Ti",
+    fabricante: "NVIDIA",
+    preco: 2999,
+    vram: 8,
+    tipoMemoria: "GDDR6",
+    nota: 7.9,
+    imagem: "/imgs/4060ti.jpg",
+  },
+];
